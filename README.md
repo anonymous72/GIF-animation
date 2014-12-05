@@ -1,4 +1,4 @@
 GIF-animation
 =============
 
-A walk at night.
+A midnight walk.
